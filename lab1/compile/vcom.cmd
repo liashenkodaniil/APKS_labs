@@ -1,0 +1,1 @@
+-w -d c:/APKS_proga/lab1/compile -s c:/APKS_proga/lab1/library.cfg -j c:/APKS_proga/lab1/projlib.cfg -work lab1 -O3 -e 100 -work lab1 -2002 c:/APKS_proga/lab1/src/and2.vhd c:/APKS_proga/lab1/src/or4.vhd c:/APKS_proga/lab1/src/or_not3.vhd c:/APKS_proga/lab1/src/lab1.vhd 

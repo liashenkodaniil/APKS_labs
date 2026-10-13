@@ -1,0 +1,8 @@
+[Version]
+Version=17.0
+[Designs]
+lab1=lab1.adf
+[Settings]
+Active=lab1
+[Expand]
+lab1=1

@@ -1,0 +1,31 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=lab1
+[Library]
+lab1=.\lab1\lab1.lib
+[$LibMap$]
+lab1=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+[IMPLEMENTATION]
+UCF=
+[c:\APKS_proga\lab1\lab1.adf]
+REFRESH_FLOW=1
+[Files]
+/and2.vhd=-1
+/or4.vhd=-1
+/or_not3.vhd=-1
+/lab1.vhd=-1
+[Files.Data]
+.\src\and2.vhd=VHDL Source Code
+.\src\or4.vhd=VHDL Source Code
+.\src\or_not3.vhd=VHDL Source Code
+.\src\lab1.vhd=VHDL Source Code
